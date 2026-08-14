@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-nkmmja.pulaucuan.sbs/sitemap.xml
